@@ -17,6 +17,8 @@ public class GitDemoApplication
 		
 		addData("This spring Boot project is getting pushed to github");
 		
+		System.out.println("Second statement in project need to commit");
+		
 	}
 
 }
