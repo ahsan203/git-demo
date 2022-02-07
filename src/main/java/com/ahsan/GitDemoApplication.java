@@ -19,6 +19,9 @@ public class GitDemoApplication
 		
 		System.out.println("Second statement in project need to commit");
 		
+		System.out.println("Third statement in project need to commit");
+		
+		
 	}
 
 }
